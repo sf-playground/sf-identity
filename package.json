@@ -1,0 +1,24 @@
+{
+  "name": "sf-identity",
+  "private": true,
+  "author": {
+    "name": "David van Gemeren",
+    "email": "david@burodepeper.nl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sf-playground/sf-identity.git"
+  },
+  "bugs": "https://github.com/sf-playground/sf-identity/issues",
+  "jshintConfig": {
+    "curly": true,
+    "jquery": true,
+    "loopfunc": true
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "~0.13.0",
+    "grunt-contrib-compass": "~1.0.3",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
